@@ -1,3 +1,4 @@
+# !pip install bardapi
 import streamlit as st
 from bardapi import Bard
 
